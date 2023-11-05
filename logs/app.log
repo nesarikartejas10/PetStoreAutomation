@@ -28,3 +28,23 @@
 [INFO ] 2023-11-05 08:15:03.155 [main] UserTests - ********Displayed User Info after Updating user********
 [INFO ] 2023-11-05 08:15:03.159 [main] UserTests - ********Deleting User********
 [INFO ] 2023-11-05 08:15:04.347 [main] UserTests - ********User information is Deleted********
+[INFO ] 2023-11-05 10:58:42.228 [main] UserTests - ********Creating User********
+[INFO ] 2023-11-05 10:58:46.752 [main] UserTests - ********User is Created********
+[INFO ] 2023-11-05 10:58:46.776 [main] UserTests - ********Reading User Info********
+[INFO ] 2023-11-05 10:58:48.016 [main] UserTests - ********User Info is Display********
+[INFO ] 2023-11-05 10:58:48.026 [main] UserTests - ********Updating User********
+[INFO ] 2023-11-05 10:58:49.215 [main] UserTests - ********User is Updated********
+[INFO ] 2023-11-05 10:58:49.215 [main] UserTests - ********Reading User Info After Updating User********
+[INFO ] 2023-11-05 10:58:50.450 [main] UserTests - ********Displayed User Info after Updating user********
+[INFO ] 2023-11-05 10:58:50.454 [main] UserTests - ********Deleting User********
+[INFO ] 2023-11-05 10:58:51.693 [main] UserTests - ********User information is Deleted********
+[INFO ] 2023-11-05 11:08:27.035 [main] UserTests - ********Creating User********
+[INFO ] 2023-11-05 11:08:31.372 [main] UserTests - ********User is Created********
+[INFO ] 2023-11-05 11:08:31.397 [main] UserTests - ********Reading User Info********
+[INFO ] 2023-11-05 11:08:32.642 [main] UserTests - ********User Info is Display********
+[INFO ] 2023-11-05 11:08:32.650 [main] UserTests - ********Updating User********
+[INFO ] 2023-11-05 11:08:33.891 [main] UserTests - ********User is Updated********
+[INFO ] 2023-11-05 11:08:33.892 [main] UserTests - ********Reading User Info After Updating User********
+[INFO ] 2023-11-05 11:08:35.103 [main] UserTests - ********Displayed User Info after Updating user********
+[INFO ] 2023-11-05 11:08:35.109 [main] UserTests - ********Deleting User********
+[INFO ] 2023-11-05 11:08:36.283 [main] UserTests - ********User information is Deleted********
