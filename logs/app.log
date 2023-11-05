@@ -48,3 +48,13 @@
 [INFO ] 2023-11-05 11:08:35.103 [main] UserTests - ********Displayed User Info after Updating user********
 [INFO ] 2023-11-05 11:08:35.109 [main] UserTests - ********Deleting User********
 [INFO ] 2023-11-05 11:08:36.283 [main] UserTests - ********User information is Deleted********
+[INFO ] 2023-11-05 11:30:37.031 [main] UserTests - ********Creating User********
+[INFO ] 2023-11-05 11:30:41.693 [main] UserTests - ********User is Created********
+[INFO ] 2023-11-05 11:30:41.716 [main] UserTests - ********Reading User Info********
+[INFO ] 2023-11-05 11:30:42.963 [main] UserTests - ********User Info is Display********
+[INFO ] 2023-11-05 11:30:42.970 [main] UserTests - ********Updating User********
+[INFO ] 2023-11-05 11:30:44.191 [main] UserTests - ********User is Updated********
+[INFO ] 2023-11-05 11:30:44.192 [main] UserTests - ********Reading User Info After Updating User********
+[INFO ] 2023-11-05 11:30:45.416 [main] UserTests - ********Displayed User Info after Updating user********
+[INFO ] 2023-11-05 11:30:45.423 [main] UserTests - ********Deleting User********
+[INFO ] 2023-11-05 11:30:46.638 [main] UserTests - ********User information is Deleted********
